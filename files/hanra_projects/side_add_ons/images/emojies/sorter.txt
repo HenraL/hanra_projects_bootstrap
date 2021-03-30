@@ -1,0 +1,59 @@
+def getFiles(a):
+ found=""
+ for i in range(len(a)):
+  print(f"\n\ni={i},a[{i}]={a[i]},found={found}\n")
+  A=0
+  word=""
+  for j in str(a[i])+" ":
+   print(f",q={a[i]+" "},word={word}",end="")
+   if A==1:
+    word+=j
+   elif j==".":
+    print(f",j={j}",end="")
+    A=1
+   elif word=="html":
+    print(f"\n\n\n\n\n\n,in word==\"{word}\"\n\n\n\n\n\n")
+    found=i
+ if found!="":
+  print(f"\nin found,found={found}")
+  c=a.pop(int(found))
+  print(f"a[{found}]={c}")
+ return a
+
+a=os.listdir("activities")
+o=getFiles(a)
+print(o[26])
+
+
+def desxte(a):
+ for i in range(len(a)):
+  word=""
+  for j in a[i]:
+   if j==".":
+    b.append(word)
+    word=""
+   else:
+    word+=j
+ return b
+
+
+def makelist(a,b):
+ c=[]
+ for i in range(len(b)):
+  c.append({f"{b[i]}":f"{a[i]}"})
+ return c
+
+
+def makedict(a,b):
+ c={}
+ for i in range(len(b)):
+  c[f"{b[i]}"]=f"{a[i]}"
+ return c
+
+
+def allAtOnce(folder):
+ a=os.listdir(str(folder))
+ a=getFiles(a)
+ b=desxte(a)
+ c=makedict(a,b)
+ return c
