@@ -56,14 +56,14 @@ function GetFolder(emoji) {
             toPrompt+=`${i}       ${PATH_inner[i]}\n`;
             AvailableIdS.push(i)
         };
-        while (gotIt==False) do {
-            var Chosen=prompt(`Plusieurs emojis correspondent au même nom.\nEntrez le numéro de celui que vous désirez choisir\nnuméro emoji${toPrompt}`)
+        while (gotIt==False) {
+            var Chosen=prompt(`Plusieurs emojis correspondent au même nom.\nEntrez le numéro de celui que vous désirez choisir\nnuméro emoji${toPrompt}`);
             if (Chosen in AvailableIdS){
                 PATH=PATH_inner[Chosen];
                 gotIt=true;
             } else {
-                alert(`Please enter a number from the list.\nThe options are:\n${AvailableIdS}\nYou have entered: ${Chosen}`)
-            };
+                alert(`Please enter a number from the list.\nThe options are:\n${AvailableIdS}\nYou have entered: ${Chosen}`);
+            }
         }
     }
     return PATH
