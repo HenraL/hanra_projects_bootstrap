@@ -6,7 +6,7 @@ imagesInFoodAndDrink={'Abricot': 'Abricot.GIF', 'Ananas': 'Ananas.GIF', 'Aubergi
 imagesInHuman={
     'Adulte âgé': 'Adulte âgé.GIF', 'Adulte': 'Adulte.GIF', 'Agriculteur': 'Agriculteur.GIF', 'Agricultrice': 'Agricultrice.GIF', 'Allaitement': 'Allaitement.GIF', 'Artiste (femme)': 'Artiste (femme).GIF', 'Artiste': 'Artiste.GIF', 'Astronaute (femme)': 'Astronaute (femme).GIF', 'Astronaute': 'Astronaute.GIF', 'Bague': 'Bague.GIF', 'Baiser': 'Baiser.GIF', 'Ballerine': 'Ballerine.GIF', 'Biceps contracté': 'Biceps contracté.GIF', 'Bikini': 'Bikini.GIF', 'Blouse de laborantin': 'Blouse de laborantin.GIF', 'Bobine de fil': 'Bobine de fil.GIF', 'Botte pour femme': 'Botte pour femme.GIF', 'Bouche en fermeture éclair': 'Bouche en fermeture éclair.GIF', 'Bouche': 'Bouche.GIF', 'Bébé ange': 'Bébé ange.GIF', 'Bébé': 'Bébé.GIF', 'Casque de secouriste': 'Casque de secouriste.GIF', 'Casquette de baseball': 'Casquette de baseball.GIF', 'Cerveau': 'Cerveau.GIF', 'Chanteur': 'Chanteur.GIF', 'Chanteuse': 'Chanteuse.GIF', 'Chapeau de diplômé': 'Chapeau de diplômé.GIF', 'Chapeau de femme': 'Chapeau de femme.GIF', 'Chaussettes': 'Chaussettes.GIF', "Chaussure d'homme": "Chaussure d'homme.GIF", 'Chaussure de randonnée': 'Chaussure de randonnée.GIF', 'Chaussure de sport': 'Chaussure de sport.GIF', 'Chaussure à haut talon': 'Chaussure à haut talon.GIF', 'Chef cuisinier': 'Chef cuisinier.GIF', 'Chef cuisinière': 'Chef cuisinière.GIF', 'Chemise avec cravate': 'Chemise avec cravate.GIF', 'Chercheur': 'Chercheur.GIF', 'Chercheuse': 'Chercheuse.GIF', 'Couple avec coeur': 'Couple avec coeur.GIF', 'Coureur': 'Coureur.GIF', 'Couronne': 'Couronne.GIF', 'Crâne': 'Crâne.GIF', 'Danse': 'Danse.GIF', 'Dent': 'Dent.GIF', 'Deux femmes qui se tiennent la main': 'Deux femmes qui se tiennent la main.GIF', 'Deux hommes se tiennent la main': 'Deux hommes se tiennent la main.GIF', 'Diable japonais': 'Diable japonais.GIF', 'Diablotin': 'Diablotin.GIF', "Dos d'une main levée": "Dos d'une main levée.GIF", 'Double silhouette': 'Double silhouette.GIF', 'Détective (femme)': 'Détective (femme).GIF', 'Détective': 'Détective.GIF', 'Echarpe': 'Echarpe.GIF', 'Elfe': 'Elfe.GIF', 'Employé de bureau': 'Employé de bureau.GIF', 'Employé du secteur de la santé': 'Employé du secteur de la santé.GIF', 'Employée de bureau': 'Employée de bureau.GIF', 'Employée du secteur de la santé': 'Employée du secteur de la santé.GIF', 'Empreinte de baiser': 'Empreinte de baiser.GIF', 'Empreinte de pied': 'Empreinte de pied.GIF', 'Enfant': 'Enfant.GIF', 'Enseignant': 'Enseignant.GIF', 'Enseignante': 'Enseignante.GIF', 'Etudiant': 'Etudiant.GIF', 'Etudiante': 'Etudiante.GIF', 'Famille': 'Famille.GIF', 'Fantôme': 'Fantôme.GIF', 'Femme aux cheveux blancs': 'Femme aux cheveux blancs.GIF', 'Femme blonde': 'Femme blonde.GIF', 'Femme bouclée': 'Femme bouclée.GIF', 'Femme chauve': 'Femme chauve.GIF', 'Femme enceinte': 'Femme enceinte.GIF', 'Femme rousse': 'Femme rousse.GIF', 'Femme âgé': 'Femme âgé.GIF', 'Femme': 'Femme.GIF', 'Femmes avec des oreilles de lapin': 'Femmes avec des oreilles de lapin.GIF', 'Fillette': 'Fillette.GIF', 'Future mariée': 'Future mariée.GIF', 'Fée': 'Fée.GIF', 'Gants': 'Gants.GIF', 'Garde': 'Garde.GIF', 'Garçon': 'Garçon.GIF', "Geste Je t'aime": "Geste Je t'aime.GIF", 'grinning-face_1f600': 'grinning-face_1f600.GIF', 'Génie': 'Génie.GIF', 'Haut de forme': 'Haut de forme.GIF', 
     'Homme aux cheveux blancs': 'Homme aux cheveux blancs.GIF', 'Homme avec un bonnet chinois': 'Homme avec un bonnet chinois.GIF', 'Homme blond': 'Homme blond.GIF', 'Homme bouclé': 'Homme bouclé.GIF', 'Homme chauve': 'Homme chauve.GIF', 'Homme en costume qui flotte': 'Homme en costume qui flotte.GIF', 'Homme en smoking': 'Homme en smoking.GIF', 'Homme et femme qui se tiennent la main': 'Homme et femme qui se tiennent la main.GIF', 'Homme qui danse': 'Homme qui danse.GIF', 'Homme qui se prend la tête': 'Homme qui se prend la tête.GIF', 'Homme roux': 'Homme roux.GIF', 'Homme âgé': 'Homme âgé.GIF', 'Homme': 'Homme.GIF', 'Index levé': 'Index levé.GIF', 'Informaticien': 'Informaticien.GIF', 'Informaticienne': 'Informaticienne.GIF', 'Jambe': 'Jambe.GIF', 'Jeans': 'Jeans.GIF', 'Kimono': 'Kimono.GIF', 'Langue': 'Langue.GIF', 'Lanterne citrouille': 'Lanterne citrouille.GIF', 'Lunettes de protection': 'Lunettes de protection.GIF', 'Lunettes sombres': 'Lunettes sombres.GIF', 'Lunettes': 'Lunettes.GIF', 'Magicien(ne)': 'Magicien(ne).GIF', 'Magistrat': 'Magistrat.GIF', 'Magistrate': 'Magistrate.GIF', 'Main avec le majeur vers le haut': 'Main avec le majeur vers le haut.GIF', 'Main avec les doigts croisés': 'Main avec les doigts croisés.GIF', 'Main levée avec les doigts écartés': 'Main levée avec les doigts écartés.GIF', 'Main levée': 'Main levée.GIF', 'Main qui représente des cornes': 'Main qui représente des cornes.GIF', "Main qui s'agite": "Main qui s'agite.GIF", 'Main qui écrit': 'Main qui écrit.GIF', 'Main vue de dessus qui indique le bas': 'Main vue de dessus qui indique le bas.GIF', 'Main vue de dessus qui indique le haut': 'Main vue de dessus qui indique le haut.GIF', 'Main vue de dos qui indique la droite': 'Main vue de dos qui indique la droite.GIF', 'Main vue de dos qui indique la gauche': 'Main vue de dos qui indique la gauche.GIF', 'Mains ouvertes': 'Mains ouvertes.GIF', 'Mains qui applaudissent': 'Mains qui applaudissent.GIF', 'Manteau': 'Manteau.GIF', 'Mère Noël': 'Mère Noël.GIF', 'Mécanicien': 'Mécanicien.GIF', 'Mécanicienne': 'Mécanicienne.GIF', 'Nez': 'Nez.GIF', 'Oeil': 'Oeil.GIF', 'Ogre japonais « Namahage »': 'Ogre japonais « Namahage ».GIF', 'Oreille': 'Oreille.GIF', 'Os': 'Os.GIF', 'Ouvrier': 'Ouvrier.GIF', 'Ouvrière': 'Ouvrière.GIF', 'Parapluie fermé': 'Parapluie fermé.GIF', 'Paumes côte-à-côte orientées vers le haut': 'Paumes côte-à-côte orientées vers le haut.GIF', 'Pelote de laine': 'Pelote de laine.GIF', "Personnage avec un geste d'approbation": "Personnage avec un geste d'approbation.GIF", 'Personnage avec un geste de refus': 'Personnage avec un geste de refus.GIF', 'Personne avec les mains en prière': 'Personne avec les mains en prière.GIF', 'Personne avec les sourcils froncé': 'Personne avec les sourcils froncé.GIF', 'Personne avec un turban': 'Personne avec un turban.GIF', 'Personne avec un voile': 'Personne avec un voile.GIF', 'Personne barbue': 'Personne barbue.GIF', "Personne chargée de l'information": "Personne chargée de l'information.GIF", 'Personne dans un sauna': 'Personne dans un sauna.GIF', 'Personne joyeuse qui lève la main': 'Personne joyeuse qui lève la main.GIF', 'Personne qui boude': 'Personne qui boude.GIF', 'Personne qui hausse les épaules': 'Personne qui hausse les épaules.GIF',
-    "Personne qui s'incline très bas": "Personne qui s'incline très bas.GIF", 'Personne recevant un massage': 'Personne recevant un massage.GIF', 'Personne se faisant couper les cheveux': 'Personne se faisant couper les cheveux.GIF', 'Personne étirant joyeusement les bras vers le haut': 'Personne étirant joyeusement les bras vers le haut.GIF', 'Pied': 'Pied.GIF', 'Pilote (femme)': 'Pilote (femme).GIF', 'Pilote': 'Pilote.GIF', 'Piéton': 'Piéton.GIF', 'Pochette': 'Pochette.GIF', 'Poignée de main': 'Poignée de main.GIF', 'Poing dirigé vers la droite': 'Poing dirigé vers la droite.GIF', 'Poing dirigé vers la gauche': 'Poing dirigé vers la gauche.GIF', 'Poing levé': 'Poing levé.GIF', 'Poing serré': 'Poing serré.GIF', 'Policier': 'Policier.GIF', 'Policière': 'Policière.GIF', 'Porte monnaie': 'Porte monnaie.GIF', 'Pouce en bas': 'Pouce en bas.GIF', "Pouce en l'air": "Pouce en l'air.GIF", 'Prince': 'Prince.GIF', 'Princesse': 'Princesse.GIF', 'Père Noël': 'Père Noël.GIF', 'Robe': 'Robe.GIF', 'Rouge à lèvres': 'Rouge à lèvres.GIF', "Sac d'écolier": "Sac d'écolier.GIF", 'Sac à main': 'Sac à main.GIF', 'Salut vulcanien': 'Salut vulcanien.GIF', 'Sandale féminine': 'Sandale féminine.GIF', 'Sapeur-pompier (femme)': 'Sapeur-pompier (femme).GIF', 'Sapeur-pompier': 'Sapeur-pompier.GIF', 'Se rouler par terre de rire': 'Se rouler par terre de rire.GIF', 'Signe de la main Appelle-moi': 'Signe de la main Appelle-moi.GIF', 'Signe « tout va bien »': 'Signe « tout va bien ».GIF', "Silhouette d'un buste": "Silhouette d'un buste.GIF", 'Sirène': 'Sirène.GIF', 'Smiley câlin': 'Smiley câlin.GIF', 'smiling-face-with-open-mouth_1f603': 'smiling-face-with-open-mouth_1f603.GIF', 'Superhéros': 'Superhéros.GIF', 'Supervilain': 'Supervilain.GIF', 'T-Shirt': 'T-Shirt.GIF', 'Tête de caca': 'Tête de caca.GIF', 'Tête de mort': 'Tête de mort.GIF', 'Tête qui parle': 'Tête qui parle.GIF', 'V de la victoire': 'V de la victoire.GIF', 'Valise': 'Valise.GIF', 'Vampire': 'Vampire.GIF', 'Vernis à ongles': 'Vernis à ongles.GIF', 'Visage apathique': 'Visage apathique.GIF', 'Visage assoupi': 'Visage assoupi.GIF', 'Visage au chapeau de Cowboy': 'Visage au chapeau de Cowboy.GIF', 'Visage aux sourcils froncés': 'Visage aux sourcils froncés.GIF', 'Visage aux yeux rieurs faisant un baiser': 'Visage aux yeux rieurs faisant un baiser.GIF', 'Visage avec bandage à la tête': 'Visage avec bandage à la tête.GIF', 'Visage avec des larmes de joie': 'Visage avec des larmes de joie.GIF', 'Visage avec des lunettes de soleil': 'Visage avec des lunettes de soleil.GIF', 'Visage avec des yeux suppliants': 'Visage avec des yeux suppliants.GIF', 'Visage avec la bouche ouverte et ses sueurs froides': 'Visage avec la bouche ouverte et ses sueurs froides.GIF', 'Visage avec la bouche ouverte qui vomit': 'Visage avec la bouche ouverte qui vomit.GIF', 'Visage avec la bouche ouverte': 'Visage avec la bouche ouverte.GIF', "Visage avec la langue tirée et un clin d'oeil": "Visage avec la langue tirée et un clin d'oeil.GIF", 'Visage avec la main sur la bouche': 'Visage avec la main sur la bouche.GIF', 'Visage avec la tête qui explose': 'Visage avec la tête qui explose.GIF', 'Visage avec les yeux qui roulent': 'Visage avec les yeux qui roulent.GIF', 'Visage avec monocle': 'Visage avec monocle.GIF', 
+    "Personne qui s'incline très bas": "Personne qui s'incline très bas.GIF", 'Personne recevant un massage': 'Personne recevant un massage.GIF', 'Personne se faisant couper les cheveux': 'Personne se faisant couper les cheveux.GIF', 'Personne étirant joyeusement les bras vers le haut': 'Personne étirant joyeusement les bras vers le haut.GIF', 'Pied': 'Pied.GIF', 'Pilote (femme)': 'Pilote (femme).GIF', 'Pilote': 'Pilote.GIF', 'Piéton': 'Piéton.GIF', 'Pochette': 'Pochette.GIF', 'Poignée de main': 'Poignée de main.GIF', 'Poing dirigé vers la droite': 'Poing dirigé vers la droite.GIF', 'Poing dirigé vers la gauche': 'Poing dirigé vers la gauche.GIF', 'Poing levé': 'Poing levé.GIF', 'Poing serré': 'Poing serré.GIF', 'Policier': 'Policier.GIF', 'Policière': 'Policière.GIF', 'Porte monnaie': 'Porte monnaie.GIF', 'Pouce en bas': 'Pouce en bas.GIF', "Pouce en l'air": "Pouce en l'air.GIF", 'Prince': 'Prince.GIF', 'Princesse': 'Princesse.GIF', 'Père Noël': 'Père Noël.GIF', 'Robe': 'Robe.GIF', 'Rouge à lèvres': 'Rouge à lèvres.GIF', "Sac d'écolier": "Sac d'écolier.GIF", 'Sac à main': 'Sac à main.GIF', 'Salut vulcanien': 'Salut vulcanien.GIF', 'Sandale féminine': 'Sandale féminine.GIF', 'Sapeur-pompier (femme)': 'Sapeur-pompier (femme).GIF', 'Sapeur-pompier': 'Sapeur-pompier.GIF', 'Se rouler par terre de rire': 'Se rouler par terre de rire.GIF', 'Signe de la main Appelle-moi': 'Signe de la main Appelle-moi.GIF', 'Signe « tout va bien »': 'Signe « tout va bien ».GIF', "Silhouette d'un buste": "Silhouette d'un buste.GIF", 'Sirène': 'Sirène.GIF', 'Smiley câlin': 'Smiley câlin.GIF', 'smiling-face-with-open-mouth': 'smiling-face-with-open-mouth_1f603.GIF', 'Superhéros': 'Superhéros.GIF', 'Supervilain': 'Supervilain.GIF', 'T-Shirt': 'T-Shirt.GIF', 'Tête de caca': 'Tête de caca.GIF', 'Tête de mort': 'Tête de mort.GIF', 'Tête qui parle': 'Tête qui parle.GIF', 'V de la victoire': 'V de la victoire.GIF', 'Valise': 'Valise.GIF', 'Vampire': 'Vampire.GIF', 'Vernis à ongles': 'Vernis à ongles.GIF', 'Visage apathique': 'Visage apathique.GIF', 'Visage assoupi': 'Visage assoupi.GIF', 'Visage au chapeau de Cowboy': 'Visage au chapeau de Cowboy.GIF', 'Visage aux sourcils froncés': 'Visage aux sourcils froncés.GIF', 'Visage aux yeux rieurs faisant un baiser': 'Visage aux yeux rieurs faisant un baiser.GIF', 'Visage avec bandage à la tête': 'Visage avec bandage à la tête.GIF', 'Visage avec des larmes de joie': 'Visage avec des larmes de joie.GIF', 'Visage avec des lunettes de soleil': 'Visage avec des lunettes de soleil.GIF', 'Visage avec des yeux suppliants': 'Visage avec des yeux suppliants.GIF', 'Visage avec la bouche ouverte et ses sueurs froides': 'Visage avec la bouche ouverte et ses sueurs froides.GIF', 'Visage avec la bouche ouverte qui vomit': 'Visage avec la bouche ouverte qui vomit.GIF', 'Visage avec la bouche ouverte': 'Visage avec la bouche ouverte.GIF', "Visage avec la langue tirée et un clin d'oeil": "Visage avec la langue tirée et un clin d'oeil.GIF", 'Visage avec la main sur la bouche': 'Visage avec la main sur la bouche.GIF', 'Visage avec la tête qui explose': 'Visage avec la tête qui explose.GIF', 'Visage avec les yeux qui roulent': 'Visage avec les yeux qui roulent.GIF', 'Visage avec monocle': 'Visage avec monocle.GIF', 
     'Visage avec sifflet et chapeau de fête': 'Visage avec sifflet et chapeau de fête.GIF', 'Visage avec sueurs froides': 'Visage avec sueurs froides.GIF', 'Visage avec symboles sur la bouche': 'Visage avec symboles sur la bouche.GIF', 'Visage avec un masque de protection': 'Visage avec un masque de protection.GIF', 'Visage avec un rictus grimaçant': 'Visage avec un rictus grimaçant.GIF', 'Visage avec un sourcil levé': 'Visage avec un sourcil levé.GIF', 'Visage avec un sourire et des yeux rieurs': 'Visage avec un sourire et des yeux rieurs.GIF', 'Visage avec un thermomètre dans la bouche': 'Visage avec un thermomètre dans la bouche.GIF', 'Visage avec un œil fermé et la bouche qui ondule': 'Visage avec un œil fermé et la bouche qui ondule.GIF', 'Visage boudeur': 'Visage boudeur.GIF', 'Visage bouleversé': 'Visage bouleversé.GIF', 'Visage colérique': 'Visage colérique.GIF', 'Visage congelé': 'Visage congelé.GIF', 'Visage de chat avec des larmes de joie': 'Visage de chat avec des larmes de joie.GIF', 'Visage de chat avec un sourire téméraire': 'Visage de chat avec un sourire téméraire.GIF', 'Visage de chat boudeur': 'Visage de chat boudeur.GIF', 'Visage de chat qui embrasse, les yeux fermés': 'Visage de chat qui embrasse, les yeux fermés.GIF', 'Visage de chat qui pleure': 'Visage de chat qui pleure.GIF', 'Visage de chat rieur avec les yeux plissés': 'Visage de chat rieur avec les yeux plissés.GIF', 'Visage de chat souriant avec la bouche ouverte': 'Visage de chat souriant avec la bouche ouverte.GIF', 'Visage de chat souriant avec les yeux en coeur': 'Visage de chat souriant avec les yeux en coeur.GIF', 'Visage de chat épuisé': 'Visage de chat épuisé.GIF', 'Visage de clown': 'Visage de clown.GIF', 'Visage de robot': 'Visage de robot.GIF', 'Visage dégoûté': 'Visage dégoûté.GIF', 'Visage déçu mais soulagé': 'Visage déçu mais soulagé.GIF', 'Visage déçu': 'Visage déçu.GIF', 'Visage extra-terrestre': 'Visage extra-terrestre.GIF', 'Visage fatigué': 'Visage fatigué.GIF', 'Visage figé par la peur': 'Visage figé par la peur.GIF', 'Visage fou': 'Visage fou.GIF', 'Visage froncé avec la bouche ouverte': 'Visage froncé avec la bouche ouverte.GIF', 'Visage geek': 'Visage geek.GIF', 'Visage inexpressif': 'Visage inexpressif.GIF', 'Visage inquiet': 'Visage inquiet.GIF', 'Visage interloqué': 'Visage interloqué.GIF', 'Visage légèrement contrarié': 'Visage légèrement contrarié.GIF', 'Visage mécontent': 'Visage mécontent.GIF', 'Visage neutre': 'Visage neutre.GIF', 'Visage pensif': 'Visage pensif.GIF', 'Visage perplexe': 'Visage perplexe.GIF', 'Visage pleurant abondamment': 'Visage pleurant abondamment.GIF', 'Visage qui a trop chaud': 'Visage qui a trop chaud.GIF', 'Visage qui bave': 'Visage qui bave.GIF', 'Visage qui embrasse': 'Visage qui embrasse.GIF', 'Visage qui envoie un baiser, les yeux fermés': 'Visage qui envoie un baiser, les yeux fermés.GIF', 'Visage qui envoie un baiser': 'Visage qui envoie un baiser.GIF', "Visage qui fait un clin d'oeil": "Visage qui fait un clin d'oeil.GIF", 'Visage qui ment': 'Visage qui ment.GIF', 'Visage qui met en garde': 'Visage qui met en garde.GIF', 'Visage qui pleure': 'Visage qui pleure.GIF', 'Visage qui réfléchit': 'Visage qui réfléchit.GIF', 'Visage qui savoure un bon plat': 'Visage qui savoure un bon plat.GIF', 
     'Visage qui se mouche': 'Visage qui se mouche.GIF', 'Visage qui somnole': 'Visage qui somnole.GIF', 'Visage qui souffre': 'Visage qui souffre.GIF', 'Visage qui tire la langue et plisse les yeux': 'Visage qui tire la langue et plisse les yeux.GIF', 'Visage qui tire la langue': 'Visage qui tire la langue.GIF', 'Visage renversé': 'Visage renversé.GIF', 'Visage rougissant': 'Visage rougissant.GIF', 'Visage sans bouche': 'Visage sans bouche.GIF', 'Visage sans voix': 'Visage sans voix.GIF', 'Visage soulagé': 'Visage soulagé.GIF', 'Visage souriant avec bouche ouverte et yeux fermés': 'Visage souriant avec bouche ouverte et yeux fermés.GIF', 'Visage souriant avec bouche ouverte et yeux rieurs': 'Visage souriant avec bouche ouverte et yeux rieurs.GIF', 'Visage souriant avec bouche ouverte': 'Visage souriant avec bouche ouverte.GIF', 'Visage souriant avec des cornes': 'Visage souriant avec des cornes.GIF', 'Visage souriant avec des yeux en forme de cœur': 'Visage souriant avec des yeux en forme de cœur.GIF', 'Visage souriant avec la bouche ouverte et une goutte de sueur': 'Visage souriant avec la bouche ouverte et une goutte de sueur.GIF', 'Visage souriant avec les yeux en étoile': 'Visage souriant avec les yeux en étoile.GIF', 'Visage souriant avec les yeux rieurs et trois cœurs': 'Visage souriant avec les yeux rieurs et trois cœurs.GIF', 'Visage souriant avec une auréole': 'Visage souriant avec une auréole.GIF', 'Visage souriant avec yeux rieurs': 'Visage souriant avec yeux rieurs.GIF', 'Visage souriant légèrement': 'Visage souriant légèrement.GIF', "Visage souriant à l'air narquois(slash)malicieux": "Visage souriant à l'air narquois(slash)malicieux.GIF", 'Visage souriant': 'Visage souriant.GIF', 'Visage surpris': 'Visage surpris.GIF', 'Visage triomphant': 'Visage triomphant.GIF', "Visage à l'expression douloureuse": "Visage à l'expression douloureuse.GIF", 'Visage à la bouche en dollar': 'Visage à la bouche en dollar.GIF', 'Vêtement de femme': 'Vêtement de femme.GIF', 'Yeux': 'Yeux.GIF', 'Zombie': 'Zombie.GIF'},
 imagesInJourneyAndPlaces={
@@ -31,60 +31,83 @@ imagesInSymbols={
 // document.getElementsByTagNameNS
 // document.getSelection
 
-function GetFolder(emoji) {
+function writeEmoji(ID="",EMOJI="",CLASS=""){
+    console.log(`ID=\"${ID}\",EMOJI=\"${EMOJI}\",CLASS=\"${CLASS}\"`);
+    FULL=GetFolder(EMOJI);
+    console.log(`FULL=${FULL} ,ID=\"${ID}\" ,EMOJI=\"${EMOJI}\" ,CLASS=\"${CLASS}\"`);
+    writeEmoji_inner(ID=ID,CLASS=CLASS,PATH=FULL);
+    console.log(`FULL=${FULL} ,ID=\"${ID}\" ,EMOJI=\"${EMOJI}\" ,CLASS=\"${CLASS}\"`);
+}
+
+function GetFolder(emoji="") {
     var listsContents={},
     PATH_inner=[],
     contentOfFolders=[imagesInActivities,imagesInFoodAndDrink,imagesInHuman,imagesInJourneyAndPlaces,imagesInNature,imagesInObjects,imagesInSymbols],
     listTracking={},
     AvailableIdS=[],
     gotIt=false,
-    toPrompt="";
-    for (var i=0;i<folderImageOptions.length;i++){
-        listsContents[str(folderImageOptions[i])]=contentOfFolders[i];
-        listTracking[str(folderImageOptions[i])]=0;
+    toPrompt="",
+    PATH="",
+    IN="";
+    if (emoji===""){ //If emoji is not defined
+        emoji="smiling-face-with-open-mouth";
+        IN=folderImageOptions[3];
+    };
+    for (var i=0;i<folderImageOptions.length;i++){ //Creating lists
+        listsContents[`${folderImageOptions[i]}`]=contentOfFolders[i];
+        listTracking[`${folderImageOptions[i]}`]=0;
+        console.log(`listContents[folderImageOptions[${i}]=${folderImageOptions[i]}]=contentOfFolders[${i}] (${contentOfFolders[i]})`);
+        console.log(`listTracking[folderImageOptions[${i}]=${folderImageOptions[i]}]=0`);
     }
-    for (var i=0;i<folderImageOptions.length;i++){
+    for (var i=0;i<folderImageOptions.length;i++){ //Looking for the emoji in lists
         if (emoji in listsContents[folderImageOptions[i]]){
             listTracking[folderImageOptions[i]]=1;
-            PATH_inner.push(`${mainGitLinkForImageFiles}/${folderImageOptions[i]}/${listsContents[folderImageOptions[i][emoji]]}`)
+            PATH_inner.push(`${mainGitLinkForImageFiles}/${folderImageOptions[i]}/${listsContents[folderImageOptions[i][emoji]]}`);
         } else {
             listTracking[folderImageOptions[i]]=0;
         }
     }
-    if (PATH_inner.length>0) {
-        for (var i=0;i<PATH_inner.length;i++){
+    console.log(`PATH_inner=${PATH_inner}`);
+    if (PATH_inner.length>1) { //if more than one emoji is found ...
+        for (var i=0;i<PATH_inner.length;i++){ //Show found emojis
             toPrompt+=`${i}       ${PATH_inner[i]}\n`;
-            AvailableIdS.push(i)
+            AvailableIdS.push(i);
         };
-        while (gotIt==False) {
+        console.log(`PATH_inner=${PATH_inner}`);
+        while (gotIt==false) { //while no good answers given
             var Chosen=prompt(`Plusieurs emojis correspondent au même nom.\nEntrez le numéro de celui que vous désirez choisir\nnuméro emoji${toPrompt}`);
-            if (Chosen in AvailableIdS){
+            if (Chosen in AvailableIdS){ //answer is given
                 PATH=PATH_inner[Chosen];
                 gotIt=true;
+            } else { //answer is not given
+                alert(`Please only enter a number from the list.\nThe options are:\n${AvailableIdS}\nYou have entered: ${Chosen}`);
+            }
+        }
+    } else {
+        PATH=PATH_inner[0];
+    }
+    var PATH_blob="";
+    for (var i=0;i<PATH_inner.length;i++){PATH_blob+=PATH_inner[i];};
+    console.log(`PATH=${PATH}`);
+    console.log(`listsContents=${listsContents}, PATH_inner=${PATH_blob} , contentOfFolders=${contentOfFolders} ,listTracking=${listTracking} ,AvailableIdS=${AvailableIdS} ,gotIt=${gotIt} ,toPrompt=${toPrompt} ,PATH=${PATH} ,IN=${IN}`);
+    return PATH;
+}
+
+function writeEmoji_inner(ID="",CLASS="",PATH=""){
+    var code="",
+    COI="";
+    if (CLASS==="" && ID==="") {
+        while (CLASS==="" && ID===""){
+            COI=prompt("Please enter:\n- 1 if you wish to enter an ID\n- 2 if you wish to enter a class");
+            if (COI==1){
+                ID=prompt(`Please enter the ID corresponding to the location to wish the emoji will be put.`);
+            } else if (COI==2) {
+                ID=prompt(`Please enter the Class corresponding to the location to wish the emoji will be put.`);
             } else {
-                alert(`Please enter a number from the list.\nThe options are:\n${AvailableIdS}\nYou have entered: ${Chosen}`);
+                alert(`Please only enter 1 for ID or 2 for Class\nYou have entered ${COI}`);
             }
         }
     }
-    return PATH
-}
-
-async function writeEmoji(ID="",EMOJI="",CLASS=""){
-    await FULL=GetFolder(EMOJI);
-    writeEmoji_inner(ID="",IN="",TYPE=FULL,CLASS="",)
-}
-
-function writeEmoji_inner(ID="",IN="",TYPE="",CLASS="",folder,){
-    var code="";
-    if (CLASS==="") or (ID===""); {
-        if (CLASS===""){CLASS="";}
-        if (ID===""){ID="";}
-    } else {
-        alert("Please enter a class or an ID for type("+TYPE+")");
-        ErrorEvent="Missing and ID or a Class, Please enter one";
-    };
-    if (TYPE===""){TYPE='Adulte âgé';};
-    if (IN===""){IN=folderImageOptions[0])}
-    code+="<img src=\"\" class=\""+CLASS+"\" id=\""+ID+"\"/>"
+    code+=`<img src=\"${PATH}\" class=\"${CLASS}\" id=\"${ID}\"/>`;
     document.getElementById(ID).innerHTML=code;
 }
