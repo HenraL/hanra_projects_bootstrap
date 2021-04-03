@@ -1,31 +1,24 @@
-def getFiles(a):
+def getFiles(a,to_find):
  found=""
  for i in range(len(a)):
-  print(f"\n\ni={i},a[{i}]={a[i]},found={found}\n")
+  #print(f"i={i},a[{i}]={a[i]},found={found}")
   A=0
   word=""
-  for j in str(a[i])+" ":
-   print(f",q={a[i]+" "},word={word}",end="")
-   if A==1:
+  for j in "{} ".format(str(a[i])):
+   if word==to_find:
+    print(f"\n\nin word==\"{word}\"\n\n")
+    found=i
+   elif A==1:
     word+=j
    elif j==".":
-    print(f",j={j}",end="")
     A=1
-   elif word=="html":
-    print(f"\n\n\n\n\n\n,in word==\"{word}\"\n\n\n\n\n\n")
-    found=i
  if found!="":
-  print(f"\nin found,found={found}")
   c=a.pop(int(found))
   print(f"a[{found}]={c}")
  return a
 
-a=os.listdir("activities")
-o=getFiles(a)
-print(o[26])
-
-
 def desxte(a):
+ b=[]
  for i in range(len(a)):
   word=""
   for j in a[i]:
@@ -52,8 +45,35 @@ def makedict(a,b):
 
 
 def allAtOnce(folder):
- a=os.listdir(str(folder))
- a=getFiles(a)
+ print(f"folder={folder}")
+ content=os.listdir(str(folder))
+ #content=folder
+ print(f"content={content}\nstarting......... getFiles(content,\"html\")")
+ a=getFiles(content,"html")
+ print(f"a={a}\nstarting......... desxte(a)")
  b=desxte(a)
+ print(f"b={b}\nstarting......... makdict(a,b)")
  c=makedict(a,b)
+ print(f"c={c}")
  return c
+
+#alpha=allAtOnce(os.listdir(d[0]))
+#alpha=allAtOnce('activities')
+
+d=os.listdir()
+d=getFiles(d,"py")
+d=getFiles(d,"py")
+d=getFiles(d,"txt")
+d=getFiles(d,"html")
+d=getFiles(d,"csv")
+d=getFiles(d,"txts")
+d=getFiles(d,"cmd")
+d=getFiles(d,"txt")
+z=[]
+for r in range(len(d)):
+ alpha=allAtOnce(d[r])
+ z.append(alpha)
+
+for i in z:
+ print(z[i])
+
